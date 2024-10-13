@@ -13,6 +13,7 @@ from tensorflow.keras.optimizers import SGD
 nltk.download('punkt')
 nltk.download('wordnet')
 
+# initialize the lemmatizer for finding lemma 
 lemmatizer = WordNetLemmatizer()
 
 # Load intents from JSON file
