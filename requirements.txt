@@ -1,0 +1,6 @@
+nltk==3.6.3
+numpy==1.21.2
+tensorflow==2.8.0
+speechrecognition==3.8.1
+pyttsx3==2.7
+keras==2.8.0
